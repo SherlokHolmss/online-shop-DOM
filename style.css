@@ -1,0 +1,14 @@
+.products-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 700px;
+}
+.product-item{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: bisque;
+}
